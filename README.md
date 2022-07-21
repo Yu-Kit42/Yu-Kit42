@@ -1,6 +1,6 @@
 <div align = "center">
   <h1> Hello My name is JuHwan Song </h1> <br>
-  ![](http://mazassumnida.wtf/api/v2/generate_badge?boj=yukit)
+  [![](http://mazassumnida.wtf/api/v2/generate_badge?boj=yukit)](http://mazassumnida.wtf/api/generate_badge?boj=gaeduck0908)
 </div>
 
 
