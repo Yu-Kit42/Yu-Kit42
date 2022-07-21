@@ -5,7 +5,8 @@
   </a>
 
 <h4>
-  
+<h1> Experience </h1>
+
 | What | When | How | Where |
 |:--------:|:--------:|:--------:|:--------:|
 | 성일정보고등학교 프로그래머스 동아리 | 2021. 03 ~ 현재 | 코딩테스트 대비 코딩문제 풀이  | Sungil Information High School |
@@ -14,7 +15,7 @@
 | 성일정보고등학교 개발스터디<br>(알고리즘 부문 멘토) | 2022. 06 ~ 현재 | 개발 활동 | Sungil Information High School |
   
 <h4>
-
+<br>
 
  
 <a href="https://github.com/Yu-Kit42/JavaFx_membership">
