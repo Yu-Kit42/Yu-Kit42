@@ -1,6 +1,8 @@
 <div align = "center">
   <h1> Hello My name is JuHwan Song </h1> <br>
-  ![Solved ac Profil](http://mazassumnida.wtf/api/v2/generate_badge?boj=yukit)
+  <a href = "https://www.acmicpc.net/user/yukit">
+    <img src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=yukit"
+  </a>
 
 <h4>
   
@@ -12,7 +14,11 @@
 | 성일정보고등학교 개발스터디<br>(알고리즘 부문 멘토) | 2022. 06 ~ 현재 | 개발 활동 | Sungil Information High School |
   
 <h4>
+
+ ![]https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=Python_Calculator
  
+  
+</h4>
   
 </div>
 
