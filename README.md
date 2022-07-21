@@ -15,9 +15,20 @@
   
 <h4>
 
- ![]https://github-readme-stats.vercel.app/api/pin/?username=Gaeduck-0908&repo=Python_Calculator
+
  
-  
+<a href="https://github.com/Yu-Kit42/JavaFx_membership">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yu-Kit42&repo=JavaFx_membership" />
+</a>
+<a href="https://github.com/Yu-Kit42/JavaFX_KimBabKiosk">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yu-Kit42&repo=JavaFX_KimBabKiosk" />
+</a>
+<a href="https://github.com/Yu-Kit42/JavaFX_Calculator">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yu-Kit42&repo=JavaFX_Calculator" />
+</a>
+<a href="https://github.com/Yu-Kit42/Java_BaekJoon">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yu-Kit42&repo=Java_BaekJoon" />
+</a>
 </h4>
   
 </div>
