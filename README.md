@@ -21,24 +21,43 @@
 | 안드로이드 앱개발 방과후 | 2021. 11 ~ 현재 | 안드로이드 스튜디오를 <br> 이용한 앱개발 | Sungil Information High School |
 | 성일정보고등학교 개발스터디<br>(알고리즘 부문 멘토) | 2022. 06 ~ 현재 | 개발 활동 | Sungil Information High School |
   
-<h4>
+</h4>
 <br>
-  
-  
+
+## Skills and Languages ##
+<a href="https://developer.android.com">
+    <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white">
+</a>
+<a href="https://kotlinlang.org">
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white">
+</a>
+</a>
+<a href="https://python.org">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+</a>
+<a href="https://java.com">
+    <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white">
+</a>
+
   # repository
+<h4>  
+
 <a href="https://github.com/Yu-Kit42/JavaFx_membership">
      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yu-Kit42&repo=JavaFx_membership&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
 </a>
+
 <a href="https://github.com/Yu-Kit42/JavaFX_KimBabKiosk">
      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yu-Kit42&repo=JavaFX_KimBabKiosk&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
 </a>
+
 <a href="https://github.com/Yu-Kit42/Android_RandomDice.kt">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yu-Kit42&repo=
-Android_RandomDice.kt&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
+     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yu-Kit42&repo=Android_RandomDice.kt&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
 </a>
+
 <a href="https://github.com/Yu-Kit42/Java_BaekJoon">
      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yu-Kit42&repo=Java_BaekJoon&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
 </a>
+
 </h4>
   
 </div>
