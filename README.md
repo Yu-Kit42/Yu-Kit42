@@ -1,16 +1,13 @@
 <div align = "center">
   <h1> Hello My name is JuHwan Song </h1> <br>
-  <a href = "https://www.acmicpc.net/user/yukit">
+
+  <h3> 성일정보고등학교 소프트웨어개발과 재학중입니다 </h3>
+  <h3> 항상 배우려는 자세로 임하겠습니다 </h3>
+  
+   <a href = "https://www.acmicpc.net/user/yukit">
     <img src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=yukit"
   </a>
 
-    
-    
-# 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞.
-  <h3> 성일정보고등학교 소프트웨어개발과 재학중입니다 </h3>
-  <h3> 항상 배우려는 자세로 임하겠습니다 </h3>
-
- 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yu-Kit42&layout=compact&theme=dracula)
 <h4>
 <h1> Experience </h1>
@@ -24,8 +21,21 @@
   
 <h4>
 <br>
-
- 
+  
+### Programming languages ###
+<h2>
+  <a href="https://kotlinlang.org">
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white">
+  </a>
+  <a href="https://python.org">
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  </a>
+  <a href="https://java.com">
+      <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white">
+  </a>
+</h2>
+  
+  # 𝐏𝐫𝐨𝐣𝐞𝐜𝐭
 <a href="https://github.com/Yu-Kit42/JavaFx_membership">
      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yu-Kit42&repo=JavaFx_membership&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
 </a>
