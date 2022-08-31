@@ -3,6 +3,8 @@
 
   <h3> 성일정보고등학교 소프트웨어개발과 재학중입니다 </h3>
   <h3> 항상 배우려는 자세로 임하겠습니다 </h3>
+  <h3> 코틀린과 자바를 이용하여 앱개발을 주로 합니다 <h3> 
+ 
   
    <a href = "https://www.acmicpc.net/user/yukit">
     <img src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=yukit"
@@ -22,28 +24,15 @@
 <h4>
 <br>
   
-### Programming languages ###
-<h2>
-  <a href="https://kotlinlang.org">
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white">
-  </a>
-  <a href="https://python.org">
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-  </a>
-  <a href="https://java.com">
-      <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white">
-  </a>
-</h2>
   
-  # 𝐏𝐫𝐨𝐣𝐞𝐜𝐭
+  # repository
 <a href="https://github.com/Yu-Kit42/JavaFx_membership">
      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yu-Kit42&repo=JavaFx_membership&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
 </a>
 <a href="https://github.com/Yu-Kit42/JavaFX_KimBabKiosk">
      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yu-Kit42&repo=JavaFX_KimBabKiosk&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
 </a>
-<a href="https://github.com/Yu-Kit42/
-Android_RandomDice.kt">
+<a href="https://github.com/Yu-Kit42/Android_RandomDice.kt">
      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yu-Kit42&repo=
 Android_RandomDice.kt&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
 </a>
