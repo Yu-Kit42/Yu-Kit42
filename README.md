@@ -39,26 +39,20 @@
     <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white">
 </a>
 
-  # repository
-<h4>  
 
-<a href="https://github.com/Yu-Kit42/JavaFx_membership">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yu-Kit42&repo=JavaFx_membership&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
-</a>
 
-<a href="https://github.com/Yu-Kit42/JavaFX_KimBabKiosk">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yu-Kit42&repo=JavaFX_KimBabKiosk&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
-</a>
+<h1> Project </h1>
 
-<a href="https://github.com/Yu-Kit42/Android_RandomDice.kt">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yu-Kit42&repo=Android_RandomDice.kt&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
-</a>
+| Project | Explanation |
+|:-----:|:------:|
+| [후루요니 덱 빌더](https://github.com/Yu-Kit42/FuruyoniDeckBuilder) | 코틀린으로 만든 후루요니 덱 빌더 앱 |
+| [랜덤 주사위 앱](https://github.com/Yu-Kit42/Android_RandomDice.kt) | 코틀린으로 만든 랜덤 값 생성, 주사위 앱 |
+| [로또번호 생성기 앱](https://github.com/Yu-Kit42/Android_Lotto.kt) | 안드로이드 스튜디오를 이용하여 개발한 로또 번호 생성기 |
+| [백준 문제풀이 백업](https://github.com/Yu-Kit42/Java_BaekJoon) | 자바를 이용한 각종 백준 문제풀이 백업 |
+| [키오스크](https://github.com/Yu-Kit42/JavaFX_KimBabKiosk) | JavaFX 로 만든 키오스크 메뉴 주문 프로그램 |
 
-<a href="https://github.com/Yu-Kit42/Java_BaekJoon">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yu-Kit42&repo=Java_BaekJoon&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
-</a>
+<br>
 
-</h4>
   
 </div>
 
