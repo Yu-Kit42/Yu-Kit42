@@ -7,7 +7,7 @@
  
   
    <a href = "https://www.acmicpc.net/user/yukit">
-    <img src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=yukit"
+    <img src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=yukit">
   </a>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yu-Kit42&layout=compact&theme=dracula)
