@@ -39,9 +39,9 @@
 <a href="https://java.com">
     <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white">
 </a>
-<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript">
+<!-- <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white">
-</a>
+</a> -->
 
 
 
