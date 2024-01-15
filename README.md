@@ -5,6 +5,7 @@
   <h3> 항상 배우려는 자세로 임하겠습니다 </h3>
   <h3> 기회가 된다면 다양한 언어를 공부하고 싶습니다 <h3> 
  
+  [![wakatime](https://wakatime.com/badge/user/7d33af7a-8fde-4296-92bc-74c9f8066f27.svg)](https://wakatime.com/@7d33af7a-8fde-4296-92bc-74c9f8066f27)
   
    <a href = "https://www.acmicpc.net/user/yukit">
     <img src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=yukit">
