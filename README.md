@@ -1,7 +1,7 @@
 <div align = "center">
   <h1> Hello My name is JuHwan Song </h1> <br>
 
-  <h3> 소프트캠프 재힉 중 입니다 </h3>
+  <h3> 소프트캠프 재직 중 입니다 </h3>
   <h3> 항상 배우려는 자세로 임하겠습니다 </h3>
   <h3> 기회가 된다면 다양한 언어를 공부하고 싶습니다 <h3> 
  
